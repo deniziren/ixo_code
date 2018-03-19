@@ -5,8 +5,8 @@ app = Flask(__name__)
 
 @app.route('/vacancy/<job_title>')
 def hello_name(job_title):
-
-	return render_template('hello.html', jobtitle = job_title, wordcloudpath = getWordcloud(job_title), important_features_list=important_features2HTMLList(job_title))
+	wordcloudpathtoreturn, noofdata = getWordcloud(job_title)
+	return render_template('hello.html', jobtitle = job_title, wordcloudpath = wordcloudpathtoreturn, important_features_list=important_features2HTMLList(job_title), wordclouddatapoints=noofdata)
    
 if __name__ == '__main__':
 	app.debug=True

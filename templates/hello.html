@@ -26,7 +26,16 @@
 	<title>IXO: The most intelligent HR Management System ever built!</title>
 </head>
    <body>
-   
+   <nav class="navbar navbar-default" style="background-color: #112D46;">
+
+		<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#">
+					<img alt="IXO" class="logo" src="{{ url_for('static', filename='ixo.png') }}" height="36px">
+				</a>
+			</div>
+
+	</nav>
 
 	  
 	  
@@ -45,7 +54,7 @@
 						  <input type="text" class="form-control" placeholder="" value="{{ jobtitle }}" aria-describedby="basic-addon1">
 						</div>
 					<br>
-					<div id="summernote"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
+					<div id="summernote"  style='text-align:left;'><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
 				</div>
 			</div>
 		</div>
@@ -54,8 +63,8 @@
 				<div class="panel-heading">
 					<h3 class="panel-title">Wordcloud</h3>
 				</div>
-				<div class="panel-body"><img width="100%" src={{ url_for('static', filename=wordcloudpath) }}>
-				Buraya biseyler yazsak
+				<div class="panel-body" style='text-align:left;'><img width="100%" src={{ url_for('static', filename=wordcloudpath) }}>
+				Wordcloud generated on {{ wordclouddatapoints }} records.
 				</div>
 			</div>
 			<div class="panel panel-primary">
@@ -63,7 +72,7 @@
 					<h3 class="panel-title">Important features</h3>
 					
 				</div>
-				<div class="panel-body">
+				<div class="panel-body" style='text-align:left;'>
 					{{ important_features_list|safe }}
 				</div>
 			</div>
@@ -71,7 +80,7 @@
 				<div class="panel-heading">
 					<h3 class="panel-title">Team dynamics</h3>
 				</div>
-				<div class="panel-body">
+				<div class="panel-body" style='text-align:left;'>
 					<ul>
 						<li>...</li>
 						<li>...</li>

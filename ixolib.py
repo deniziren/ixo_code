@@ -55,7 +55,7 @@ def getWordcloud(jobTitle):
 		imageFilePath = "clouds/wcloud_" + jobTitle.replace(' ', '_') + ".png"
 		plt.savefig("static/" + imageFilePath)
 		#plt.show()
-    return imageFilePath
+    return imageFilePath, str(i)
 
 def important_features2HTMLList(job_title):
 	html = "<UL>"
