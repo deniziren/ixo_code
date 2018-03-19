@@ -1,0 +1,311 @@
+,Employee Name,Employee Number,Position,certificate A,Performance Score,years employed,skill A,skill B level,cognitive score,result validating,self organizing,value adding,stakeholder involving,regularly reflecting,networking,societally responsible,sharing,visionair,constantly learning
+0,"Brown, Mia",1103024456,Accountant I,no,Fully Meets,9.0,0,1,5,5.7,5.8,6.0,5.8,6.0,5.5,5.1,5.6,6.0,5.7
+1,"LaRotonda, William  ",1106026572,Accountant I,yes,Fully Meets,4.0,10,2,5,5.8,5.1,5.7,5.7,5.3,5.4,5.4,5.8,5.5,5.7
+2,"Steans, Tyrone  ",1302053333,Accountant I,yes,Fully Meets,3.0,10,0,5,5.6,5.4,5.5,5.7,5.2,5.2,5.8,5.8,5.5,5.3
+3,"Howard, Estelle",1211050782,Administrative Assistant,no,N/A- too early to review,0.0,0,1,3,3.6,3.1,3.2,3.5,3.2,3.0,3.6,3.2,3.8,3.8
+4,"Singh, Nan ",1307059817,Administrative Assistant,yes,N/A- too early to review,3.0,10,0,3,3.1,3.5,3.7,3.8,3.3,3.2,3.7,3.8,3.4,3.8
+5,"Smith, Leigh Ann",711007713,Administrative Assistant,no,Fully Meets,2.0,0,1,5,5.9,5.5,5.7,5.7,5.0,6.0,5.7,5.8,5.2,5.4
+6,"LeBlanc, Brandon  R",1102024115,Shared Services Manager,no,Fully Meets,2.0,0,1,5,5.2,5.9,6.0,5.4,5.3,5.2,5.9,5.8,5.5,5.7
+7,"Quinn, Sean",1206043417,Shared Services Manager,no,Fully Meets,4.0,0,1,5,5.1,5.6,6.0,5.3,5.3,5.2,5.9,5.3,5.4,5.3
+8,"Boutwell, Bonalyn",1307060188,Sr. Accountant,no,90-day meets,3.0,0,1,4,4.5,4.0,4.1,4.1,4.5,4.8,4.4,4.6,4.1,4.2
+9,"Foster-Baker, Amy",1201031308,Sr. Accountant,no,Fully Meets,9.0,0,1,5,5.6,5.1,5.8,5.2,5.8,5.3,5.8,5.5,5.2,5.9
+10,"King, Janet",1001495124,President & CEO,no,Fully Meets,5.0,0,1,5,5.8,5.2,5.0,5.6,5.0,5.5,5.6,6.0,5.1,5.2
+11,"Zamora, Jennifer",1112030816,CIO,yes,Exceptional,8.0,10,0,6,6.4,6.0,6.9,7.0,6.9,6.7,6.7,6.2,6.7,6.2
+12,"Becker, Renee",1102024056,Database Administrator,yes,Fully Meets,1.0,10,0,5,5.8,5.6,5.9,5.9,5.2,5.4,5.5,5.4,5.0,5.6
+13,"Goble, Taisha",905013738,Database Administrator,yes,Fully Meets,0.0,10,0,5,5.1,5.1,5.7,5.2,5.2,5.8,5.3,5.7,5.1,5.1
+14,"Hernandez, Daniff",1410071156,Database Administrator,no,N/A- too early to review,0.0,0,1,3,3.1,3.8,3.3,4.0,3.2,3.3,4.0,3.0,3.1,3.9
+15,"Horton, Jayne",1105025718,Database Administrator,yes,N/A- too early to review,3.0,10,0,3,3.5,3.8,3.2,3.2,3.3,3.3,3.3,3.0,3.2,3.2
+16,"Johnson, Noelle ",1003018246,Database Administrator,no,90-day meets,3.0,0,1,4,4.1,4.1,4.4,4.8,4.3,4.5,4.7,4.7,4.4,4.9
+17,"Murray, Thomas",1406068403,Database Administrator,yes,Exceptional,3.0,10,2,6,6.0,6.6,6.3,6.2,6.8,6.7,6.8,6.9,6.2,6.7
+18,"Pearson, Randall",1102023965,Database Administrator,no,Fully Meets,1.0,0,1,5,5.3,5.5,5.9,5.2,5.9,5.8,5.3,5.3,5.7,5.1
+19,"Petrowsky, Thelma",1108027853,Database Administrator,no,Exceptional,3.0,0,1,6,6.4,6.7,7.0,6.5,6.3,6.5,6.1,6.5,6.7,6.0
+20,"Roby, Lori ",1407068885,Database Administrator,no,Fully Meets,3.0,0,1,5,5.1,5.7,5.4,5.9,5.5,5.2,5.8,5.3,5.7,5.5
+21,"Rogers, Ivan",1203032255,Database Administrator,no,N/A- too early to review,3.0,0,1,3,3.8,3.8,3.9,3.8,3.8,3.1,3.6,3.4,3.1,3.5
+22,"Salter, Jason",1111030148,Database Administrator,yes,90-day meets,1.0,10,2,4,4.8,4.5,4.4,4.9,4.1,4.9,4.2,4.3,4.5,4.8
+23,"Simard, Kramer",808010278,Database Administrator,no,90-day meets,3.0,0,1,4,4.6,4.8,4.3,4.3,4.6,4.3,4.9,4.1,4.6,4.7
+24,"Zhou, Julia",1110029732,Database Administrator,yes,90-day meets,3.0,10,0,4,4.9,4.7,4.2,4.2,4.2,4.9,4.8,4.7,4.6,4.3
+25,"Foss, Jason",1192991000,IT Director,yes,Exceptional,7.0,10,0,6,6.9,6.8,6.1,6.8,6.9,6.4,6.1,6.4,6.8,6.4
+26,"Roup,Simon",1106026933,IT Manager - DB,yes,Fully Meets,5.0,10,0,5,5.8,5.1,5.6,5.1,5.4,5.4,5.2,5.7,5.4,5.9
+27,"Ruiz, Ricardo",1001175250,IT Manager - DB,yes,Fully Meets,4.0,10,2,5,5.6,5.0,5.4,5.1,5.6,5.7,5.5,5.5,5.8,5.4
+28,"Monroe, Peter",1011022863,IT Manager - Infra,no,Needs Improvement,6.0,0,1,2,2.7,2.7,2.6,2.7,2.4,2.1,2.5,2.5,2.2,2.1
+29,"Dougall, Eric",1101023754,IT Manager - Support,yes,Exceeds,4.0,10,0,7,7.9,7.9,7.0,7.6,7.9,7.1,7.2,7.9,7.8,7.4
+30,"Clayton, Rick",1301052902,IT Support,yes,Fully Meets,5.0,10,0,5,5.3,5.4,5.4,5.2,5.7,5.8,5.2,5.1,5.7,5.1
+31,"Galia, Lisa",1501072093,IT Support,yes,Fully Meets,8.0,10,0,5,5.4,5.4,5.9,5.5,5.1,5.2,5.9,5.7,5.4,5.5
+32,"Lindsay, Leonara ",602000312,IT Support,yes,Exceeds,7.0,10,0,7,7.3,7.3,7.7,7.8,7.6,7.2,7.6,7.7,7.9,7.6
+33,"Soto, Julia ",1203032263,IT Support,no,Fully Meets,6.0,0,1,5,5.2,5.9,5.6,5.5,5.3,6.0,5.6,5.6,5.4,5.2
+34,"Bacong, Alejandro ",1212052023,Network Engineer,yes,90-day meets,3.0,10,2,4,5.0,4.2,4.3,4.5,4.5,4.7,4.9,5.0,4.5,4.4
+35,"Cisco, Anthony",1102024173,Network Engineer,no,N/A- too early to review,3.0,0,1,3,4.0,3.8,3.2,3.8,3.6,3.4,3.4,3.9,3.7,3.3
+36,"Dolan, Linda",1101023540,Network Engineer,no,90-day meets,3.0,0,1,4,4.5,4.6,4.7,4.6,4.9,4.1,4.4,4.7,4.2,4.9
+37,"Gonzalez, Maria",1988299991,Network Engineer,yes,Fully Meets,3.0,10,3,5,5.6,5.2,5.5,5.3,6.0,5.2,6.0,5.6,5.4,5.2
+38,"Merlos, Carlos",1012023013,Network Engineer,yes,N/A- too early to review,3.0,10,0,3,3.2,3.8,3.7,3.2,3.9,3.3,3.3,3.6,3.4,3.4
+39,"Morway, Tanya",1001956578,Network Engineer,no,Fully Meets,3.0,0,1,5,5.8,5.0,6.0,5.3,5.5,5.4,5.7,5.4,5.0,5.3
+40,"Shepard, Anita ",906014183,Network Engineer,no,Fully Meets,3.0,0,1,5,5.3,5.8,5.8,5.5,5.6,5.3,5.4,5.9,5.5,5.1
+41,"Tredinnick, Neville ",1104025466,Network Engineer,no,Fully Meets,0.0,0,1,5,5.9,5.1,5.6,5.3,5.5,6.0,5.7,5.9,5.5,5.1
+42,"Turpin, Jumil",1411071506,Network Engineer,no,N/A- too early to review,3.0,0,1,3,3.0,3.8,3.3,3.8,3.2,3.3,3.1,3.5,3.4,3.9
+43,"Ait Sidi, Karthikeyan   ",1307060199,Sr. DBA,no,Fully Meets,1.0,0,1,5,5.3,5.5,5.4,5.3,5.7,5.5,5.5,5.7,5.5,5.3
+44,"Carr, Claudia  N",1010022337,Sr. DBA,yes,N/A- too early to review,1.0,10,0,3,3.1,3.5,3.4,3.3,3.5,4.0,3.6,3.9,3.1,3.6
+45,"Favis, Donald  ",1412071562,Sr. DBA,yes,Fully Meets,2.0,10,0,5,5.5,5.2,5.5,5.8,5.2,5.7,5.4,5.6,5.9,5.7
+46,"Roehrich, Bianca",1111030266,Sr. DBA,yes,90-day meets,1.0,10,0,4,4.4,4.6,4.9,4.6,4.9,4.2,4.7,4.0,4.4,4.5
+47,"Daniele, Ann  ",1411071312,Sr. Network Engineer,no,Fully Meets,3.0,0,1,5,5.9,5.8,5.6,5.5,5.3,5.0,5.4,5.8,5.3,5.2
+48,"Lajiri,  Jyoti",1108028108,Sr. Network Engineer,no,Fully Meets,3.0,0,1,5,5.1,5.1,5.4,5.9,5.5,5.4,6.0,5.9,5.0,5.1
+49,"Semizoglou, Jeremiah  ",904013591,Sr. Network Engineer,no,N/A- too early to review,1.0,0,1,3,3.9,3.3,3.1,3.3,3.9,3.4,4.0,3.1,3.3,3.7
+50,"South, Joe",1308060959,Sr. Network Engineer,yes,90-day meets,3.0,10,0,4,4.6,4.5,4.3,4.2,4.7,4.3,4.2,4.8,4.5,4.9
+51,"Warfield, Sarah",1301052347,Sr. Network Engineer,yes,N/A- too early to review,3.0,10,4,3,3.1,3.2,3.3,3.8,3.4,3.7,3.7,3.2,4.0,3.9
+52,"Bramante, Elisa",1006020066,Director of Operations,yes,Exceeds,9.0,10,0,7,7.4,7.7,7.2,7.8,7.1,7.1,7.3,8.0,7.5,7.2
+53,"Albert, Michael  ",1501072311,Production Manager,yes,Fully Meets,6.0,10,2,5,5.2,5.9,5.3,6.0,5.0,5.6,5.8,5.9,5.1,5.9
+54,"Bozzi, Charles",1303054580,Production Manager,yes,Fully Meets,1.0,10,0,5,5.0,6.0,5.8,5.2,5.7,5.4,5.1,5.5,5.4,5.5
+55,"Butler, Webster  L",1110029990,Production Manager,yes,Exceeds,2.0,10,0,7,7.5,7.9,7.8,7.6,7.4,8.0,7.2,7.4,7.9,8.0
+56,"Dunn, Amy  ",1409070147,Production Manager,yes,Fully Meets,3.0,10,0,5,5.2,5.9,5.4,5.1,5.8,6.0,5.8,5.2,5.5,6.0
+57,"Gray, Elijiah  ",1307060077,Production Manager,yes,Fully Meets,2.0,10,2,5,5.3,5.6,5.7,5.8,5.8,5.1,5.1,5.1,5.1,5.4
+58,"Hogland, Jonathan ",1001944783,Production Manager,no,Fully Meets,5.0,0,1,5,5.2,6.0,5.7,5.9,5.9,5.1,5.0,5.4,5.1,5.2
+59,"Immediato, Walter",1403065874,Production Manager,no,Needs Improvement,2.0,0,1,2,2.6,2.6,2.3,2.4,2.6,2.3,2.4,2.2,3.0,2.3
+60,"Liebig, Ketsia",1103024679,Production Manager,no,Exceeds,4.0,0,1,7,7.1,7.1,7.6,7.4,7.6,8.0,7.7,7.2,7.2,7.5
+61,"Miller, Brannon",1107027351,Production Manager,yes,Fully Meets,5.0,10,0,5,5.9,5.5,5.2,5.1,5.5,5.6,5.9,5.2,5.8,5.7
+62,"Peterson, Ebonee  ",1402065355,Production Manager,no,Fully Meets,6.0,0,1,5,5.5,5.0,5.5,5.5,5.4,5.4,5.6,5.4,5.5,5.3
+63,"Spirea, Kelley",1102024149,Production Manager,no,Fully Meets,5.0,0,1,5,5.3,5.9,5.9,5.1,5.5,5.2,5.0,5.6,5.7,5.0
+64,"Stanley, David ",1000974650,Production Manager,yes,Needs Improvement,7.0,10,2,2,2.6,2.9,2.4,2.6,2.0,2.3,3.0,2.9,2.9,2.9
+65,"Sullivan, Kissy ",1405067298,Production Manager,no,Fully Meets,9.0,0,1,5,5.7,5.6,5.9,5.4,5.7,5.6,5.3,5.6,5.9,5.5
+66,"Wallace, Courtney  E",1410071026,Production Manager,no,Fully Meets,0.0,0,1,5,6.0,6.0,5.9,5.2,5.0,5.1,5.4,5.9,5.2,5.7
+67,"Adinolfi, Wilson  K",1409070522,Production Technician I,yes,Exceeds,6.0,10,0,7,7.6,7.4,7.4,7.4,7.7,7.1,7.4,7.5,7.7,7.1
+68,"Alagbe,Trina",1011022883,Production Technician I,no,Fully Meets,10.0,0,1,5,5.9,5.6,5.3,5.9,5.2,6.0,5.5,5.9,5.6,5.2
+69,"Anderson, Carol ",1001417624,Production Technician I,yes,N/A- too early to review,0.0,10,2,3,3.0,3.5,3.1,3.9,3.2,3.0,3.7,3.3,3.0,3.2
+70,"Anderson, Linda  ",1304055947,Production Technician I,yes,Exceptional,6.0,10,0,6,7.0,6.3,6.3,6.1,6.7,7.0,6.8,6.8,6.4,6.1
+71,"Athwal, Sam",1301052124,Production Technician I,yes,N/A- too early to review,4.0,10,4,3,3.6,3.9,3.1,3.4,3.3,3.9,3.4,3.4,3.1,3.4
+72,"Bachiochi, Linda",1212051409,Production Technician I,yes,Fully Meets,8.0,10,0,5,6.0,5.5,5.1,5.7,5.3,5.1,5.3,5.8,5.5,5.6
+73,"Baczenski, Rachael  ",1307060083,Production Technician I,no,N/A- too early to review,0.0,0,1,3,3.4,3.6,3.3,4.0,3.4,3.9,3.7,3.4,3.6,3.1
+74,"Barbara, Thomas",1312063507,Production Technician I,no,90-day meets,0.0,0,1,4,4.7,4.5,4.5,4.4,4.8,4.8,4.3,4.8,4.8,4.1
+75,"Barone, Francesco  A",1101023679,Production Technician I,yes,Fully Meets,6.0,10,0,5,5.6,5.5,5.2,5.2,5.6,5.4,5.6,5.3,5.7,5.7
+76,"Barton, Nader",1212051962,Production Technician I,yes,Fully Meets,1.0,10,2,5,5.1,5.8,5.7,5.7,5.3,5.2,5.6,5.6,5.2,5.8
+77,"Beatrice, Courtney ",1403066194,Production Technician I,yes,Fully Meets,7.0,10,0,5,5.6,5.6,5.1,5.4,5.4,5.9,5.7,5.0,5.8,5.9
+78,"Becker, Scott",1110029777,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.1,5.8,5.6,5.5,5.1,5.7,5.7,5.2,5.5,5.0
+79,"Bernstein, Sean",1109029366,Production Technician I,yes,Fully Meets,6.0,10,0,5,5.0,5.5,5.2,5.5,5.8,5.9,5.6,6.0,5.2,5.6
+80,"Biden, Lowan  M",1412071844,Production Technician I,yes,Fully Meets,4.0,10,2,5,5.9,5.2,5.9,6.0,5.6,5.1,6.0,5.9,5.1,6.0
+81,"Billis, Helen",1308060366,Production Technician I,no,Exceeds,3.0,0,1,7,7.6,7.8,7.3,7.2,7.1,7.9,7.6,7.3,7.5,7.4
+82,"Brill, Donna",1406068293,Production Technician I,no,Fully Meets,1.0,0,1,5,5.3,5.2,5.8,5.7,5.8,5.6,5.1,5.7,5.2,5.4
+83,"Bugali, Josephine ",1408069635,Production Technician I,yes,Fully Meets,4.0,10,3,5,5.1,5.9,5.4,5.1,5.6,5.1,5.0,5.1,5.3,5.2
+84,"Carey, Michael  ",1311063114,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.2,5.1,5.7,5.1,5.8,5.7,5.8,5.3,5.8,5.8
+85,"Chace, Beatrice ",1208048062,Production Technician I,yes,Fully Meets,3.0,10,0,5,5.4,5.2,5.0,5.8,5.8,5.0,5.1,5.2,5.9,5.5
+86,"Chan, Lin",1305057282,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.4,5.1,5.7,5.3,5.7,5.7,5.7,5.0,5.5,5.7
+87,"Chang, Donovan  E",1111030129,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.6,5.5,5.2,5.4,5.9,5.8,5.1,5.3,5.2,5.8
+88,"Chivukula, Enola",1101023394,Production Technician I,yes,90-day meets,4.0,10,0,4,4.5,4.2,4.4,4.1,4.0,4.4,4.3,4.7,4.9,4.8
+89,"Cierpiszewski, Caroline  ",1012023295,Production Technician I,yes,Fully Meets,6.0,10,0,5,5.0,5.7,5.8,5.4,5.4,5.6,5.3,5.6,5.9,5.9
+90,"Clukey, Elijian",1407069280,Production Technician I,no,Exceeds,1.0,0,1,7,7.8,7.0,7.5,7.8,7.3,7.4,7.1,7.1,7.6,7.1
+91,"Cockel, James",1599991009,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.5,5.7,5.7,5.8,5.4,5.9,5.2,5.2,5.7,5.5
+92,"Cole, Spencer",1001450968,Production Technician I,yes,Needs Improvement,1.0,10,0,2,2.6,2.3,2.1,2.3,2.9,2.1,2.6,3.0,2.9,2.3
+93,"Cornett, Lisa ",1403066069,Production Technician I,no,90-day meets,3.0,0,1,4,4.2,4.3,4.8,4.6,4.2,4.8,4.8,4.8,4.3,4.7
+94,"Crimmings,   Jean",1311063172,Production Technician I,yes,N/A- too early to review,1.0,10,0,3,3.3,3.7,3.0,3.0,3.2,3.4,3.4,3.6,3.8,3.7
+95,"Darson, Jene'ya ",1001109612,Production Technician I,no,Fully Meets,5.0,0,1,5,5.3,5.2,5.7,5.7,5.5,5.2,5.8,5.7,6.0,5.6
+96,"DeGweck,  James",1306058816,Production Technician I,no,Fully Meets,4.0,0,1,5,5.1,5.7,5.1,5.4,5.4,5.0,5.0,5.5,5.5,5.4
+97,"Desimone, Carl ",1501072124,Production Technician I,no,PIP,3.0,0,1,1,1.0,1.5,1.1,1.9,1.9,1.2,1.7,1.1,1.3,1.1
+98,"Dickinson, Geoff ",706006285,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.8,5.7,5.2,5.7,6.0,5.9,5.9,5.2,5.6,5.7
+99,"DiNocco, Lily ",1209048696,Production Technician I,no,Needs Improvement,5.0,0,1,2,2.2,2.1,2.0,2.2,2.8,2.8,2.1,2.2,2.1,2.8
+100,"Dobrin, Denisa  S",1202031618,Production Technician I,yes,Fully Meets,6.0,10,0,5,5.8,5.5,5.1,5.5,5.7,5.3,5.4,5.7,5.3,5.3
+101,"Eaton, Marianne",1406067865,Production Technician I,no,Fully Meets,2.0,0,1,5,5.5,5.9,5.2,5.2,5.2,5.3,5.6,5.9,5.2,5.8
+102,"Engdahl, Jean",1007020403,Production Technician I,yes,Fully Meets,3.0,10,0,5,6.0,5.9,5.3,5.6,5.4,5.9,5.2,5.5,5.4,5.3
+103,"England, Rex",1101023612,Production Technician I,no,90-day meets,4.0,0,1,4,4.5,5.0,4.3,4.7,4.9,4.4,4.8,4.7,4.7,4.6
+104,"Estremera, Miguel",1104025243,Production Technician I,yes,Needs Improvement,2.0,10,0,2,2.3,2.6,2.7,2.7,2.0,2.3,3.0,2.6,2.5,2.5
+105,"Evensen, April",1107027392,Production Technician I,yes,N/A- too early to review,0.0,10,0,3,3.6,3.9,3.1,3.9,3.6,3.9,3.5,3.5,3.1,3.7
+106,"Ferguson, Susan",1502072511,Production Technician I,no,Fully Meets,3.0,0,1,5,5.1,5.1,5.9,5.4,5.3,5.7,5.4,6.0,5.6,5.4
+107,"Fernandes, Nilson  ",1302053339,Production Technician I,no,N/A- too early to review,3.0,0,1,3,3.7,3.8,3.5,3.2,3.4,3.5,3.6,3.9,3.5,3.8
+108,"Ferreira, Violeta",803009012,Production Technician I,yes,Fully Meets,6.0,10,0,5,5.3,5.4,5.5,5.5,5.9,5.2,5.9,5.7,5.2,5.2
+109,"Fidelia,  Libby",1006020020,Production Technician I,no,Fully Meets,6.0,0,1,5,6.0,5.2,5.8,5.3,5.9,5.0,5.9,5.6,5.2,5.0
+110,"Garcia, Raul",1309061015,Production Technician I,yes,N/A- too early to review,3.0,10,0,3,3.1,3.8,3.9,3.7,3.9,3.5,3.5,3.4,3.1,3.6
+111,"Garneau, Hamish",1104025414,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.1,6.0,5.4,5.4,5.7,5.1,5.8,5.6,5.3,5.2
+112,"Gaul, Barbara",1105026041,Production Technician I,yes,Fully Meets,7.0,10,0,5,5.2,5.1,5.6,5.3,5.5,5.6,5.4,5.6,5.8,5.2
+113,"Gentry, Mildred",1501072192,Production Technician I,no,N/A- too early to review,3.0,0,1,3,3.3,3.4,3.4,3.7,3.4,3.3,3.2,3.3,3.7,3.7
+114,"Gerke, Melisa",1308060622,Production Technician I,yes,N/A- too early to review,0.0,10,2,3,3.4,3.6,3.9,3.9,3.4,3.7,3.7,3.2,3.2,3.8
+115,"Gilles, Alex",1008020960,Production Technician I,no,Needs Improvement,3.0,0,1,2,2.4,2.4,2.6,2.4,2.9,2.9,2.1,2.7,2.6,2.0
+116,"Girifalco, Evelyn",1204032927,Production Technician I,yes,Exceeds,3.0,10,0,7,7.0,7.4,7.4,7.1,7.9,7.6,7.3,7.3,7.6,7.1
+117,"Gold, Shenice  ",1408069539,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.7,5.8,5.4,5.7,6.0,5.6,6.0,5.3,5.2,6.0
+118,"Gonzalez, Cayo",1411071212,Production Technician I,yes,Exceeds,6.0,10,2,7,7.7,7.5,7.3,7.8,7.4,7.4,7.9,7.7,7.3,7.8
+119,"Gordon, David",1106026579,Production Technician I,no,Fully Meets,5.0,0,1,5,5.1,5.7,5.1,5.6,6.0,5.1,5.2,5.5,5.1,5.2
+120,"Goyal, Roxana",1312063675,Production Technician I,no,Fully Meets,4.0,0,1,5,5.1,5.9,5.7,5.4,5.5,5.8,5.2,5.4,5.5,5.5
+121,"Gross, Paula",1103024859,Production Technician I,yes,Fully Meets,3.0,10,2,5,5.8,5.3,5.7,5.9,6.0,5.0,5.2,5.3,5.9,5.5
+122,"Handschiegl, Joanne",1405067064,Production Technician I,no,Fully Meets,6.0,0,1,5,5.9,5.4,5.9,5.3,5.5,5.5,5.6,5.4,5.9,5.4
+123,"Harrell, Ludwick",1406068241,Production Technician I,no,Fully Meets,6.0,0,1,5,5.0,5.3,5.3,5.5,5.8,5.2,5.2,5.2,5.2,5.7
+124,"Harrington, Christie ",1110029602,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.6,5.2,5.9,5.4,5.1,5.5,5.8,5.8,5.3,5.3
+125,"Harrison, Kara",1404066622,Production Technician I,no,Exceeds,4.0,0,1,7,7.6,7.3,7.4,7.6,7.9,7.4,7.2,8.0,7.1,7.4
+126,"Heitzman, Anthony",1002017900,Production Technician I,yes,90-day meets,5.0,10,0,4,4.8,4.9,4.8,4.6,4.9,4.4,4.1,4.9,4.8,4.6
+127,"Ivey, Rose ",1408069882,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.3,5.6,5.1,5.1,5.4,5.3,5.3,5.4,5.6,5.1
+128,"Jackson, Maryellen",1201031438,Production Technician I,yes,Fully Meets,5.0,10,0,5,5.6,5.5,5.2,5.4,6.0,5.3,6.0,5.1,5.1,5.7
+129,"Jacobi, Hannah  ",1503072857,Production Technician I,yes,Fully Meets,4.0,10,2,5,5.9,5.3,5.2,5.6,5.8,5.4,5.6,5.2,6.0,5.8
+130,"Jhaveri, Sneha  ",1412071713,Production Technician I,yes,Fully Meets,4.0,10,3,5,5.3,5.1,5.0,5.4,5.1,5.6,5.3,6.0,5.3,5.1
+131,"Johnson, George",1105025721,Production Technician I,no,Exceeds,4.0,0,1,7,7.6,7.8,7.4,7.5,7.4,7.5,7.4,7.1,7.5,7.8
+132,"Jung, Judy  ",1107027450,Production Technician I,no,90-day meets,5.0,0,1,4,4.5,4.8,4.6,4.2,4.4,4.4,4.2,4.3,4.1,4.0
+133,"Keatts, Kramer ",1301052462,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.2,5.2,5.9,6.0,5.8,5.4,5.1,5.9,5.5,5.3
+134,"Kinsella, Kathleen  ",710007401,Production Technician I,no,90-day meets,4.0,0,1,4,4.7,4.7,4.9,4.8,4.6,4.5,4.1,4.2,4.7,4.2
+135,"Kirill, Alexandra  ",903013071,Production Technician I,no,Fully Meets,0.0,0,1,5,5.2,5.1,5.9,5.9,5.4,5.3,5.8,6.0,5.2,5.5
+136,"Knapp, Bradley  J",1304055683,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.2,5.4,5.3,5.1,5.8,5.1,5.7,5.5,5.8,5.4
+137,"Kretschmer, John",1311062610,Production Technician I,no,Fully Meets,7.0,0,1,5,5.6,5.4,5.7,5.9,5.9,5.5,5.6,5.6,5.7,5.9
+138,"Langton, Enrico",1304055987,Production Technician I,no,Fully Meets,5.0,0,1,5,5.6,5.3,5.8,5.5,5.3,5.6,5.6,5.8,5.3,5.5
+139,"Leach, Dallas",1408069409,Production Technician I,yes,Fully Meets,2.0,10,0,5,5.6,5.3,5.4,5.6,5.8,5.7,5.2,5.7,5.2,5.4
+140,"LeBel, Jonathan  R",1107027575,Production Technician I,yes,90-day meets,0.0,10,0,4,4.1,4.7,4.7,4.1,4.7,4.7,4.3,4.5,4.5,4.1
+141,"Linares, Marilyn ",1206042315,Production Technician I,no,N/A- too early to review,0.0,0,1,3,4.0,3.4,3.0,3.4,3.5,3.7,3.9,3.9,3.2,3.9
+142,"Lydon, Allison",1101023353,Production Technician I,no,90-day meets,3.0,0,1,4,4.2,4.5,4.5,4.1,4.2,5.0,4.9,4.9,4.3,4.4
+143,"Lynch, Lindsay",1001138521,Production Technician I,yes,Exceeds,4.0,10,0,7,7.9,7.6,7.9,7.7,7.6,7.2,7.5,7.9,8.0,7.5
+144,"MacLennan, Samuel",1201031032,Production Technician I,yes,N/A- too early to review,0.0,10,4,3,3.3,3.4,3.5,3.3,3.7,3.7,3.4,3.5,3.7,3.7
+145,"Mahoney, Lauren  ",1209049259,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.5,5.9,5.1,5.6,5.4,5.6,5.8,5.8,6.0,5.1
+146,"Mangal, Debbie",1308060754,Production Technician I,no,Fully Meets,4.0,0,1,5,5.4,5.6,5.8,5.2,5.7,5.1,5.6,5.5,5.8,5.7
+147,"Maurice, Shana",1401064327,Production Technician I,no,90-day meets,6.0,0,1,4,4.7,4.8,4.8,4.6,4.2,4.4,4.1,4.3,5.0,4.2
+148,"Mckenna, Sandy",909015167,Production Technician I,no,Fully Meets,5.0,0,1,5,5.3,5.1,5.5,5.8,5.3,5.7,5.5,5.0,5.1,5.1
+149,"Meads, Elizabeth",1409070245,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.8,5.9,5.6,5.2,5.4,5.6,5.4,5.5,5.0,5.2
+150,"Medeiros, Jennifer",1109029256,Production Technician I,yes,N/A- too early to review,3.0,10,0,3,3.5,3.3,3.0,3.6,3.2,3.5,3.8,3.8,3.8,3.7
+151,"Motlagh,  Dawn",1102024121,Production Technician I,yes,Fully Meets,5.0,10,2,5,5.1,5.8,5.4,5.3,5.8,6.0,5.6,5.2,5.0,5.3
+152,"Ndzi, Colombui",1204033041,Production Technician I,yes,Fully Meets,3.0,10,0,5,5.5,5.6,5.2,5.9,5.8,5.9,5.8,5.6,5.6,5.1
+153,"Ndzi, Horia",1204033041,Production Technician I,no,Fully Meets,3.0,0,1,5,5.4,5.0,5.3,6.0,5.7,5.4,5.8,5.6,5.8,5.9
+154,"Newman, Richard ",1302053044,Production Technician I,no,Fully Meets,4.0,0,1,5,5.2,5.6,5.9,5.5,5.3,5.2,5.5,5.7,5.8,5.3
+155,"Ngodup, Shari ",1403066020,Production Technician I,yes,Exceeds,5.0,10,3,7,7.3,7.1,7.7,7.3,7.4,7.9,7.6,7.1,7.3,7.4
+156,"Nguyen, Lei-Ming",1203032357,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.7,5.1,5.9,5.8,5.2,5.2,5.3,5.4,5.7,5.0
+157,"O'hare, Lynn",1206044851,Production Technician I,yes,PIP,2.0,10,0,1,1.8,1.1,1.3,1.8,1.7,1.8,1.8,1.9,1.3,1.7
+158,"Osturnka, Adeel",1404066949,Production Technician I,no,Exceeds,4.0,0,1,7,7.3,8.0,7.7,7.1,7.9,7.8,7.9,7.4,7.1,7.9
+159,"Owad, Clinton",1103024335,Production Technician I,yes,Needs Improvement,4.0,10,0,2,2.4,2.6,2.3,2.2,2.1,2.8,3.0,2.4,2.3,2.2
+160,"Panjwani, Nina",1109029531,Production Technician I,no,Fully Meets,3.0,0,1,5,5.1,5.7,5.5,5.5,5.9,5.4,5.6,5.6,5.7,5.9
+161,"Pelech, Emil",1307060058,Production Technician I,yes,Needs Improvement,2.0,10,0,2,2.5,2.0,2.2,2.1,3.0,2.7,2.0,2.1,2.1,2.1
+162,"Perry, Shakira",1109029186,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.8,5.9,5.1,5.5,5.2,5.8,5.8,5.5,5.2,5.3
+163,"Peterson, Kayla ",1307059944,Production Technician I,no,Fully Meets,8.0,0,1,5,6.0,5.5,5.8,5.8,5.6,5.2,5.5,5.3,5.4,5.1
+164,"Pham, Hong",1305057440,Production Technician I,no,Fully Meets,1.0,0,1,5,5.4,6.0,5.8,5.2,5.0,5.9,5.1,5.1,5.2,5.6
+165,"Pitt, Brad ",1001735072,Production Technician I,yes,Fully Meets,10.0,10,0,5,5.8,5.9,5.9,5.6,5.7,5.4,5.3,5.2,5.5,5.4
+166,"Power, Morissa",1102024274,Production Technician I,yes,N/A- too early to review,0.0,10,2,3,3.3,3.5,3.9,3.1,3.8,3.6,3.5,3.1,3.2,3.5
+167,"Punjabhi, Louis  ",1401064562,Production Technician I,yes,Fully Meets,4.0,10,0,5,6.0,5.1,5.6,5.4,5.4,5.9,5.9,5.8,5.8,5.2
+168,"Purinton, Janine",1011022926,Production Technician I,yes,Fully Meets,1.0,10,2,5,5.8,5.0,5.5,5.2,5.6,5.3,5.3,5.5,5.3,5.7
+169,"Rarrick, Quinn",1208048229,Production Technician I,yes,Fully Meets,1.0,10,2,5,5.9,5.6,5.3,5.6,5.8,5.3,5.7,5.8,5.6,5.1
+170,"Rhoads, Thomas",1211050793,Production Technician I,yes,Fully Meets,5.0,10,2,5,5.8,5.1,5.8,5.6,5.5,5.6,5.2,5.2,5.5,5.3
+171,"Rivera, Haley  ",1405067642,Production Technician I,no,Exceeds,6.0,0,1,7,8.0,7.3,7.3,7.1,7.1,7.8,7.0,7.6,7.8,7.6
+172,"Robinson, Alain  ",1206038000,Production Technician I,no,Fully Meets,5.0,0,1,5,5.1,5.1,5.5,6.0,5.8,5.7,5.5,5.6,5.5,5.3
+173,"Robinson, Cherly",1403065625,Production Technician I,no,Needs Improvement,5.0,0,1,2,2.3,2.7,2.8,2.7,2.8,2.3,2.5,2.9,2.7,2.9
+174,"Robinson, Elias",1011022887,Production Technician I,yes,Exceptional,4.0,10,4,6,6.2,6.1,6.5,6.9,6.4,6.7,6.7,6.3,6.2,6.4
+175,"Rose, Ashley  ",710007555,Production Technician I,yes,Fully Meets,4.0,10,3,5,5.2,5.9,5.7,5.2,5.5,5.2,5.9,5.6,5.0,5.8
+176,"Rossetti, Bruno",1405067492,Production Technician I,yes,Fully Meets,1.0,10,0,5,5.0,5.8,6.0,5.6,5.3,5.6,5.8,5.4,6.0,5.7
+177,"Saar-Beckles, Melinda",1410070998,Production Technician I,yes,N/A- too early to review,1.0,10,0,3,3.4,3.5,3.9,3.4,3.3,3.3,3.3,3.6,3.1,3.2
+178,"Sadki, Nore  ",1308060535,Production Technician I,yes,Fully Meets,2.0,10,0,5,5.9,5.3,5.5,5.1,5.1,5.6,5.4,5.4,5.2,5.5
+179,"Sander, Kamrin",1302053362,Production Technician I,no,Fully Meets,3.0,0,1,5,5.9,5.5,5.8,5.1,5.3,5.5,5.4,5.2,5.5,5.4
+180,"Sewkumar, Nori",807010161,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.9,5.0,5.8,5.1,5.9,5.3,5.5,5.8,5.1,5.8
+181,"Shields, Seffi",1205033102,Production Technician I,no,Fully Meets,4.0,0,1,5,5.5,5.7,5.6,5.7,6.0,5.4,5.2,5.2,5.3,5.7
+182,"Smith, Sade",1501071909,Production Technician I,yes,Fully Meets,4.0,10,0,5,5.6,5.8,5.1,5.8,5.3,5.2,5.7,5.4,5.5,5.5
+183,"Sparks, Taylor  ",1410071137,Production Technician I,no,PIP,6.0,0,1,1,1.1,1.6,1.3,1.5,1.6,1.2,1.5,1.4,1.3,1.1
+184,"Squatrito, Kristen",1405067138,Production Technician I,yes,Exceeds,2.0,10,2,7,7.1,8.0,7.5,7.1,7.3,7.3,7.2,8.0,7.3,7.2
+185,"Stanford,Barbara  M",1111030244,Production Technician I,yes,Fully Meets,7.0,10,2,5,5.3,5.2,5.0,5.3,5.2,5.9,5.2,5.6,5.4,5.8
+186,"Stoica, Rick",1106026896,Production Technician I,no,Fully Meets,4.0,0,1,5,5.5,5.3,5.4,5.1,5.1,6.0,5.3,5.4,5.5,5.6
+187,"Sullivan, Timothy",1201031310,Production Technician I,no,90-day meets,3.0,0,1,4,4.2,4.2,4.1,4.4,4.1,4.8,4.9,4.6,4.6,5.0
+188,"Sutwell, Barbara",1407069061,Production Technician I,yes,Fully Meets,6.0,10,0,5,5.0,5.3,5.5,5.9,5.1,5.5,5.9,5.9,5.4,5.7
+189,"Tavares, Desiree  ",1405067501,Production Technician I,no,Fully Meets,4.0,0,1,5,5.4,6.0,5.2,5.7,5.3,5.8,5.1,5.7,5.2,5.4
+190,"Theamstern, Sophia",1404066739,Production Technician I,yes,N/A- too early to review,0.0,10,0,3,3.1,4.0,3.2,3.9,3.4,3.5,3.2,3.1,3.8,3.5
+191,"Tinto, Theresa  ",1103024504,Production Technician I,yes,90-day meets,0.0,10,2,4,4.7,4.3,4.3,4.6,4.5,4.7,4.5,4.9,4.5,4.0
+192,"Tippett, Jeanette",1409070255,Production Technician I,yes,Fully Meets,5.0,10,2,5,6.0,5.4,5.7,5.7,6.0,5.2,5.8,5.4,5.3,5.3
+193,"Trang, Mei",1012023152,Production Technician I,yes,N/A- too early to review,4.0,10,0,3,3.9,3.8,3.4,3.3,3.7,3.5,3.6,3.6,3.5,3.9
+194,"Veera, Abdellah ",1203032235,Production Technician I,yes,Exceeds,3.0,10,2,7,7.2,7.9,7.8,7.4,7.9,7.2,7.7,7.8,7.2,7.2
+195,"Volk, Colleen",1011022814,Production Technician I,no,Exceeds,4.0,0,1,7,7.5,7.9,7.0,7.5,7.6,7.0,7.6,7.7,7.3,7.9
+196,"Von Massenbach, Anna",1106026474,Production Technician I,yes,N/A- too early to review,2.0,10,0,3,3.7,3.1,3.7,3.8,3.8,3.1,3.9,3.9,3.6,3.5
+197,"Wallace, Theresa",1101023619,Production Technician I,yes,Needs Improvement,3.0,10,0,2,3.0,2.5,2.5,2.9,3.0,2.7,2.8,2.1,2.7,2.1
+198,"Whittier, Scott",1307060212,Production Technician I,yes,90-day meets,0.0,10,0,4,4.3,4.8,4.6,4.8,4.4,4.6,4.2,4.6,4.3,4.7
+199,"Wilber, Barry",1101023839,Production Technician I,no,Fully Meets,4.0,0,1,5,5.4,5.8,5.1,5.5,5.6,5.3,5.5,5.7,5.6,5.3
+200,"Williams, Jacquelyn  ",1308060671,Production Technician I,yes,Fully Meets,3.0,10,0,5,5.6,5.8,6.0,5.8,5.7,5.3,5.7,5.8,5.6,5.2
+201,"Ybarra, Catherine ",1001268402,Production Technician I,yes,PIP,7.0,10,0,1,1.3,1.7,1.2,1.8,1.6,1.9,1.9,1.2,1.8,1.6
+202,"Zima, Colleen",1211051232,Production Technician I,yes,Fully Meets,3.0,10,4,5,5.1,5.2,5.2,5.7,5.0,5.8,5.5,5.6,5.7,5.7
+203,"Akinkuolie, Sarah",1005019209,Production Technician II,no,90-day meets,1.0,0,1,4,4.1,4.3,4.7,4.7,4.5,4.9,4.3,4.1,4.9,4.4
+204,"Beak, Kimberly  ",1303054329,Production Technician II,no,Exceeds,1.0,0,1,7,7.7,7.6,7.3,7.1,7.3,8.0,7.2,7.7,7.8,7.0
+205,"Blount, Dianna",1403066125,Production Technician II,yes,Needs Improvement,7.0,10,0,2,2.3,2.8,2.4,2.1,2.4,2.5,2.3,2.0,2.9,2.2
+206,"Bondwell, Betsy",1008021030,Production Technician II,yes,90-day meets,3.0,10,0,4,4.5,4.2,4.6,4.3,4.2,4.8,5.0,4.6,5.0,4.2
+207,"Buccheri, Joseph  ",1101023457,Production Technician II,yes,Fully Meets,3.0,10,0,5,5.1,5.2,5.2,5.9,5.8,5.5,5.0,5.2,5.2,5.4
+208,"Burke, Joelle",1011022820,Production Technician II,yes,Fully Meets,6.0,10,0,5,5.9,5.9,5.1,6.0,5.2,6.0,5.7,5.9,5.2,5.7
+209,"Burkett, Benjamin ",1301052449,Production Technician II,no,Fully Meets,7.0,0,1,5,5.1,5.5,5.1,5.7,5.2,5.4,5.9,5.5,5.0,5.1
+210,"Cloninger, Jennifer",1012023226,Production Technician II,no,90-day meets,2.0,0,1,4,4.2,4.2,4.5,4.9,4.2,4.1,4.4,4.7,4.9,4.3
+211,"Close, Phil",1209048697,Production Technician II,no,Fully Meets,1.0,0,1,5,5.8,5.7,5.8,5.9,5.9,5.4,5.3,5.8,5.9,5.1
+212,"Davis, Daniel",1201031274,Production Technician II,yes,90-day meets,6.0,10,0,4,4.5,4.9,4.1,4.5,4.8,4.5,4.4,4.1,4.9,4.5
+213,"Demita, Carla",1104025179,Production Technician II,yes,Fully Meets,5.0,10,3,5,5.2,5.9,5.0,5.8,5.0,5.3,5.3,5.0,5.4,5.7
+214,"Erilus, Angela",1105025661,Production Technician II,yes,PIP,3.0,10,3,1,1.9,1.9,1.5,1.2,1.4,1.7,1.2,1.5,1.4,1.4
+215,"Faller, Megan ",1108028428,Production Technician II,no,Fully Meets,3.0,0,1,5,5.5,5.3,5.3,5.6,6.0,5.2,6.0,5.0,5.3,5.3
+216,"Fancett, Nicole",1402065085,Production Technician II,yes,Fully Meets,4.0,10,0,5,5.5,5.2,5.8,5.4,5.9,5.2,5.4,5.4,5.8,5.4
+217,"Fitzpatrick, Michael  J",1109029103,Production Technician II,yes,Fully Meets,2.0,10,0,5,5.6,5.5,5.7,5.9,5.7,5.8,5.9,6.0,5.5,5.5
+218,"Foreman, Tanya",1012023204,Production Technician II,no,Fully Meets,1.0,0,1,5,5.7,5.8,5.1,5.7,5.1,5.6,5.3,5.2,5.9,6.0
+219,"Gonzalez, Juan",1411071324,Production Technician II,no,PIP,1.0,0,1,1,1.6,1.5,1.1,1.6,1.3,1.5,1.6,1.2,1.5,1.9
+220,"Good, Susan",1001549006,Production Technician II,no,Fully Meets,4.0,0,1,5,5.1,5.1,5.4,5.3,5.3,5.4,5.9,6.0,5.1,5.5
+221,"Gosciminski, Phylicia  ",1108028351,Production Technician II,yes,Fully Meets,4.0,10,3,5,5.9,5.7,5.8,5.7,5.9,5.1,5.2,5.1,5.5,5.5
+222,"Hankard, Earnest",1307059937,Production Technician II,yes,Fully Meets,4.0,10,0,5,5.8,5.4,5.7,6.0,5.1,5.8,5.8,5.1,5.1,5.6
+223,"Hendrickson, Trina",1011022932,Production Technician II,yes,Fully Meets,2.0,10,0,5,5.5,5.4,5.5,5.3,5.5,5.5,5.1,5.7,5.3,5.3
+224,"Homberger, Adrienne  J",1207046956,Production Technician II,no,Fully Meets,1.0,0,1,5,6.0,5.4,5.6,5.7,5.6,5.2,5.9,5.6,5.4,5.5
+225,"Hunts, Julissa",1106026433,Production Technician II,yes,N/A- too early to review,1.0,10,0,3,3.4,3.0,3.1,3.9,3.6,3.2,3.3,3.5,3.5,3.0
+226,"Hutter, Rosalie",1103024924,Production Technician II,yes,N/A- too early to review,2.0,10,3,3,3.6,3.4,3.5,3.5,3.2,3.5,3.7,3.0,3.2,3.0
+227,"Huynh, Ming",1306058509,Production Technician II,yes,Fully Meets,2.0,10,2,5,5.8,5.4,5.6,5.1,5.1,5.1,5.4,5.8,5.9,5.3
+228,"Jeannite, Tayana",1008020942,Production Technician II,yes,Exceeds,6.0,10,2,7,7.4,7.3,7.9,7.9,7.1,7.2,7.8,7.3,7.7,7.2
+229,"Johnston, Yen",1306057810,Production Technician II,yes,Exceptional,3.0,10,0,6,6.1,7.0,6.7,6.5,6.7,6.4,6.3,6.8,6.9,6.7
+230,"Langford, Lindsey",1010022030,Production Technician II,yes,Fully Meets,1.0,10,2,5,5.2,5.5,5.1,5.2,5.8,5.3,5.8,5.2,5.8,5.2
+231,"Latif, Mohammed",1104025486,Production Technician II,no,Fully Meets,1.0,0,1,5,5.2,5.2,5.8,5.5,5.5,5.4,6.0,5.1,5.5,5.7
+232,"Linden, Mathew",1405067565,Production Technician II,no,Fully Meets,4.0,0,1,5,5.4,5.8,5.4,5.4,6.0,5.7,5.3,5.8,5.8,5.2
+233,"Lundy, Susan",1305056276,Production Technician II,yes,N/A- too early to review,0.0,10,4,3,3.5,3.1,3.5,3.6,3.8,3.2,3.0,3.8,3.4,3.9
+234,"Lunquist, Lisa",1001504432,Production Technician II,yes,Exceeds,4.0,10,0,7,7.6,7.2,7.9,8.0,7.9,7.6,7.2,7.5,7.5,7.8
+235,"Manchester, Robyn",1110029623,Production Technician II,no,N/A- too early to review,2.0,0,1,3,3.6,3.9,3.3,3.2,3.6,3.7,4.0,3.0,3.2,3.1
+236,"Mancuso, Karen",1304055986,Production Technician II,no,N/A- too early to review,0.0,0,1,3,3.9,3.7,3.7,3.2,3.1,3.1,3.5,3.5,3.1,3.3
+237,"McCarthy, Brigit",1406067957,Production Technician II,yes,N/A- too early to review,3.0,10,0,3,3.4,3.9,3.8,3.5,3.9,3.0,3.2,3.7,3.1,3.1
+238,"Miller, Ned",1205033439,Production Technician II,yes,PIP,3.0,10,0,1,1.9,1.7,2.0,1.9,1.2,1.6,1.8,1.7,1.6,1.1
+239,"Monkfish, Erasumus",1404066711,Production Technician II,no,Fully Meets,6.0,0,1,5,5.1,5.9,5.8,5.7,5.3,5.7,5.8,5.8,5.2,5.5
+240,"Monterro, Luisa",1001103149,Production Technician II,yes,Exceptional,5.0,10,0,6,6.7,6.3,6.4,6.5,6.4,6.6,6.8,6.9,6.6,6.0
+241,"Moran, Patrick",1408069503,Production Technician II,yes,Fully Meets,6.0,10,0,5,5.9,5.8,5.8,5.2,5.5,5.1,5.5,5.2,5.5,5.9
+242,"Moumanil, Maliki ",1301052436,Production Technician II,yes,Fully Meets,5.0,10,3,5,5.9,5.1,5.9,5.3,5.8,5.4,5.5,5.3,5.4,5.3
+243,"Nowlan, Kristie",1104025435,Production Technician II,yes,Fully Meets,3.0,10,0,5,5.9,5.5,5.9,5.8,5.1,5.0,5.4,5.8,5.2,5.0
+244,"Oliver, Brooke ",1001856521,Production Technician II,no,90-day meets,1.0,0,1,4,4.4,4.0,4.7,4.6,4.7,4.6,4.7,4.6,4.1,4.4
+245,"Pelletier, Ermine",1202031821,Production Technician II,no,N/A- too early to review,0.0,0,1,3,3.3,3.2,3.2,3.8,3.1,3.9,3.2,3.8,3.6,3.9
+246,"Peters, Lauren",1411071406,Production Technician II,no,Exceeds,1.0,0,1,7,7.9,7.5,7.6,8.0,7.1,7.5,7.3,7.8,7.4,7.5
+247,"Petingill, Shana  ",1103024843,Production Technician II,no,Fully Meets,6.0,0,1,5,5.4,5.6,5.5,5.5,5.6,5.3,5.1,5.2,5.6,5.4
+248,"Roberson, May",1402065340,Production Technician II,yes,N/A- too early to review,0.0,10,2,3,3.0,3.1,3.1,3.1,3.2,3.7,3.5,3.1,3.3,3.3
+249,"Robertson, Peter",1499902991,Production Technician II,no,Fully Meets,1.0,0,1,5,5.6,5.6,5.1,5.3,5.0,5.8,5.5,5.5,5.7,5.5
+250,"Sahoo, Adil",1106026462,Production Technician II,no,Fully Meets,7.0,0,1,5,5.7,5.1,5.1,5.5,5.7,5.6,5.0,5.4,5.1,5.9
+251,"Sloan, Constance",1012023103,Production Technician II,yes,Fully Meets,5.0,10,0,5,5.7,5.8,5.5,5.9,5.3,5.2,5.5,5.5,5.6,5.6
+252,"Smith, Joe",1001970770,Production Technician II,yes,Exceeds,3.0,10,0,7,7.8,7.3,7.9,7.3,7.6,7.5,7.1,7.1,7.2,8.0
+253,"Tejeda, Lenora ",1406068345,Production Technician II,no,Fully Meets,1.0,0,1,5,5.1,5.1,5.0,5.8,5.9,5.2,5.7,5.8,5.3,5.3
+254,"Thibaud, Kenneth",1011022777,Production Technician II,yes,Fully Meets,3.0,10,4,5,5.6,6.0,5.7,5.6,5.2,6.0,5.0,5.1,5.4,5.6
+255,"Trzeciak, Cybil",1107027551,Production Technician II,yes,Fully Meets,1.0,10,0,5,5.4,5.1,6.0,5.9,5.7,5.3,5.7,5.3,5.4,5.3
+256,"Walker, Roger",1011022818,Production Technician II,yes,Fully Meets,3.0,10,0,5,5.4,5.3,5.1,5.7,5.5,5.0,5.5,5.9,5.2,5.1
+257,"Winthrop, Jordan  ",1405067188,Production Technician II,yes,Exceeds,3.0,10,0,7,7.3,7.2,7.1,7.1,7.3,7.2,7.0,7.2,7.1,7.7
+258,"Wolk, Hang  T",1205033180,Production Technician II,yes,Fully Meets,3.0,10,0,5,5.6,5.0,5.2,5.0,5.4,5.6,5.2,5.6,5.6,5.2
+259,"Woodson, Jason",1012023010,Production Technician II,yes,Fully Meets,3.0,10,0,5,5.0,5.6,5.7,5.6,5.4,5.0,5.6,5.8,5.6,6.0
+260,"Buck, Edward",1504073313,Area Sales Manager,no,Fully Meets,3.0,0,1,5,5.3,5.0,6.0,5.1,5.4,5.6,5.0,6.0,5.3,5.1
+261,"Bunbury, Jessica",1504073368,Area Sales Manager,no,Fully Meets,3.0,0,1,5,5.8,5.5,5.1,5.9,6.0,5.7,5.0,5.7,5.1,5.4
+262,"Carter, Michelle ",1403065721,Area Sales Manager,yes,Fully Meets,3.0,10,0,5,5.4,5.5,5.9,5.2,5.3,5.9,5.7,5.9,5.1,5.4
+263,"Costa, Latia",1409070567,Area Sales Manager,yes,Exceeds,7.0,10,0,7,8.0,7.1,7.8,7.7,7.4,7.2,7.7,7.2,7.8,7.5
+264,"Dietrich, Jenna  ",1408069481,Area Sales Manager,yes,PIP,6.0,10,0,1,1.3,1.8,1.1,2.0,1.2,1.8,1.8,1.4,1.5,1.2
+265,"Digitale, Alfred",1306059197,Area Sales Manager,no,Fully Meets,3.0,0,1,5,5.6,5.6,5.3,5.1,5.0,5.9,5.9,5.3,5.1,5.1
+266,"Fraval, Maruk ",1411071302,Area Sales Manager,yes,Fully Meets,6.0,10,0,5,5.0,5.7,5.5,5.8,5.3,5.4,5.6,6.0,5.8,5.9
+267,"Friedman, Gerry",1204032843,Area Sales Manager,yes,Fully Meets,7.0,10,0,5,5.2,5.9,5.1,5.7,5.3,5.5,5.6,6.0,5.6,5.5
+268,"Gill, Whitney  ",1302053046,Area Sales Manager,yes,Fully Meets,1.0,10,4,5,5.5,5.6,5.0,5.2,5.4,5.9,5.1,5.7,5.5,5.3
+269,"Givens, Myriam",1203032099,Area Sales Manager,yes,90-day meets,3.0,10,0,4,4.8,4.8,4.8,4.3,4.4,4.4,4.3,4.2,4.0,4.5
+270,"Gonzales, Ricardo",1411071481,Area Sales Manager,no,Fully Meets,4.0,0,1,5,5.2,5.6,5.4,5.8,5.6,5.1,5.5,5.1,5.3,5.2
+271,"Guilianno, Mike",1001167253,Area Sales Manager,yes,Fully Meets,4.0,10,0,5,5.2,5.9,5.2,5.5,5.7,5.5,5.3,5.5,5.1,5.6
+272,Jeremy Prater,1001084890,Area Sales Manager,no,PIP,4.0,0,1,1,2.0,1.1,1.7,1.7,1.7,1.5,1.4,1.7,1.2,1.1
+273,"Khemmich, Bartholemew",1104025008,Area Sales Manager,yes,Fully Meets,4.0,10,0,5,5.9,5.8,5.2,5.7,5.0,5.7,5.1,5.7,5.8,5.2
+274,"Leruth, Giovanni",1412071660,Area Sales Manager,yes,Fully Meets,6.0,10,3,5,5.5,5.7,5.1,5.4,5.9,5.2,5.1,6.0,5.7,5.5
+275,"Martins, Joseph",1209048771,Area Sales Manager,yes,Fully Meets,6.0,10,0,5,5.8,5.9,6.0,5.4,5.7,5.6,5.0,5.5,5.7,5.2
+276,"McKinzie, Jac",1209049326,Area Sales Manager,no,N/A- too early to review,1.0,0,1,3,3.8,3.2,4.0,3.8,3.4,3.1,3.5,3.1,3.8,3.3
+277,"Mullaney, Howard",1306057978,Area Sales Manager,yes,Needs Improvement,3.0,10,0,2,2.4,2.5,2.8,2.6,2.4,3.0,2.4,2.1,2.1,2.1
+278,"Nguyen, Dheepa",1111030684,Area Sales Manager,yes,Fully Meets,4.0,10,0,5,5.1,5.3,5.7,5.5,5.5,5.1,5.4,5.1,5.1,5.3
+279,"Onque, Jasmine",1501072180,Area Sales Manager,yes,Fully Meets,4.0,10,0,5,5.3,5.4,5.0,5.0,5.7,5.2,5.7,5.7,5.2,5.2
+280,"Ozark, Travis",812011761,Area Sales Manager,yes,90-day meets,3.0,10,0,4,5.0,4.9,4.8,4.5,4.4,4.5,4.9,4.8,4.6,4.9
+281,"Potts, Xana",1102024106,Area Sales Manager,no,Fully Meets,6.0,0,1,5,5.7,6.0,5.8,5.6,5.0,5.8,5.3,5.8,5.7,5.4
+282,"Riordan, Michael",1502072711,Area Sales Manager,yes,Exceeds,12.0,10,3,7,7.2,8.0,7.8,7.3,7.1,7.6,7.9,7.5,7.9,7.8
+283,"Strong, Caitrin",1411071295,Area Sales Manager,no,Fully Meets,7.0,0,1,5,5.6,5.4,5.3,5.0,5.5,5.3,5.5,5.1,5.9,5.7
+284,"Terry, Sharlene ",1401064637,Area Sales Manager,yes,Fully Meets,3.0,10,0,5,5.3,5.4,5.2,5.8,5.2,5.9,5.3,5.0,5.2,5.3
+285,"Valentin,Jackie",1312063714,Area Sales Manager,no,Fully Meets,6.0,0,1,5,5.1,5.3,5.9,5.2,5.5,5.7,5.0,5.8,5.8,5.6
+286,"Villanueva, Noah",1111030503,Area Sales Manager,yes,Fully Meets,6.0,10,0,5,5.4,5.5,5.1,6.0,5.4,5.4,5.9,5.9,5.0,5.9
+287,"Houlihan, Debra",1009021646,Director of Sales,no,Fully Meets,4.0,0,1,5,5.6,5.8,5.2,5.5,5.3,5.6,5.2,5.3,5.2,5.5
+288,"Daneault, Lynn",1402065303,Sales Manager,yes,Fully Meets,4.0,10,0,5,5.3,5.0,5.3,5.3,6.0,5.2,6.0,5.1,5.0,5.1
+289,"Kampew, Donysha",1109029264,Sales Manager,yes,Fully Meets,2.0,10,0,5,5.2,5.8,5.3,5.1,5.9,5.7,5.8,5.8,5.0,5.3
+290,"Smith, John",1499902910,Sales Manager,yes,Needs Improvement,4.0,10,2,2,2.3,2.6,2.1,2.4,2.5,2.0,2.7,2.0,2.3,2.6
+291,"Andreola, Colby",1107027358,Software Engineer,yes,Fully Meets,3.0,10,0,5,5.4,5.1,5.8,5.8,5.1,5.5,5.9,5.9,6.0,5.6
+292,"Carabbio, Judith",1101023577,Software Engineer,yes,90-day meets,4.0,10,0,4,4.4,4.5,4.5,4.8,4.7,4.2,4.1,4.7,4.5,4.7
+293,"Del Bosque, Keyla",1203032498,Software Engineer,yes,90-day meets,6.0,10,0,4,4.2,4.1,4.1,5.0,4.2,4.5,4.1,4.2,5.0,4.8
+294,"Exantus, Susan",1401064670,Software Engineer,no,Needs Improvement,2.0,0,1,2,2.1,2.2,2.7,2.5,2.1,2.5,2.4,2.6,2.7,2.3
+295,"Martin, Sandra",1303054625,Software Engineer,yes,Fully Meets,4.0,10,0,5,5.2,5.0,5.5,5.3,5.3,5.7,5.0,5.1,6.0,5.7
+296,"Patronick, Luke",1112030979,Software Engineer,yes,Exceeds,4.0,10,0,7,7.4,7.0,7.1,7.7,7.2,7.5,7.7,7.4,7.6,7.3
+297,"Saada, Adell",1012023185,Software Engineer,no,Fully Meets,5.0,0,1,5,5.1,5.5,5.3,5.7,6.0,5.2,5.2,5.6,5.2,5.2
+298,"Szabo, Andrew",1201031324,Software Engineer,yes,Exceptional,3.0,10,0,6,6.1,6.0,6.6,6.4,6.2,6.2,6.6,6.8,6.9,6.9
+299,"True, Edward",1102024057,Software Engineer,yes,Fully Meets,1.0,10,0,5,5.8,5.1,5.3,5.8,5.3,5.9,6.0,5.9,5.8,5.9
+300,"Sweetwater, Alex",1001644719,Software Engineering Manager,yes,Fully Meets,6.0,10,0,5,5.6,6.0,5.5,5.6,5.2,5.2,5.5,5.1,5.6,5.5
+301,"Champaigne, Brian",1009919920,BI Director,no,Fully Meets,1.0,0,1,5,5.2,5.7,5.1,5.7,5.4,5.8,5.6,5.8,5.3,5.7
+302,"Le, Binh",1009919930,Senior BI Developer,yes,Fully Meets,1.0,10,0,5,5.0,5.7,5.5,5.4,5.4,5.8,5.5,5.9,5.3,5.4
+303,"Rachael, Maggie",1009919940,BI Developer,no,Fully Meets,1.0,0,1,5,5.8,5.2,5.7,5.7,5.2,5.6,5.3,5.8,5.7,5.5
+304,"Roper, Katie",1009919950,Data Architect,yes,Fully Meets,1.0,10,0,5,5.1,5.6,5.4,5.6,5.8,5.1,5.6,5.9,5.9,5.1
+305,"Navathe, Kurt",1009919960,Senior BI Developer,yes,Fully Meets,1.0,10,0,5,5.8,5.5,5.6,5.9,5.6,5.3,5.4,5.0,5.5,5.4
+306,"Wang, Charlie",1009919970,Senior BI Developer,yes,Fully Meets,1.0,10,0,5,5.5,5.3,5.4,5.2,5.1,5.7,5.2,6.0,5.9,5.5
+307,"Smith, Jason",1009919980,BI Developer,yes,Fully Meets,1.0,10,0,5,5.9,5.6,5.1,5.2,5.8,5.5,5.8,5.4,5.8,5.4
+308,"Westinghouse, Matthew",1009919990,BI Developer,no,Fully Meets,1.0,0,1,5,5.8,5.5,5.3,5.7,5.7,5.6,5.7,6.0,5.8,5.8
+309,"Hubert, Robert",1009920000,BI Developer,no,Fully Meets,1.0,0,1,5,5.7,5.4,5.7,5.8,5.1,5.0,5.1,5.2,5.6,5.6

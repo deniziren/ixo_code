@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Plotly.js -->
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+	
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+	
+	<!-- include libraries(jQuery, bootstrap) -->
+<link href="http://netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.css" rel="stylesheet">
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script> 
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.js"></script> 
+
+<!-- include summernote css/js -->
+<link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.9/summernote.css" rel="stylesheet">
+<script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.9/summernote.js"></script>
+
+	<title>IXO: The most intelligent HR Management System ever built!</title>
+</head>
+   <body>
+   
+
+	  
+	  
+	  <div class="container">
+	  <div class="row">
+		<div class="col-8">
+		
+			
+		  <div class="panel panel-primary">
+				<div class="panel-heading">
+					<h3 class="panel-title">Vacancy 2.0</h3>
+				</div>
+				<div class="panel-body">
+					<div class="input-group">
+						  <span class="input-group-addon" id="basic-addon1">Job Title </span>
+						  <input type="text" class="form-control" placeholder="" value="{{ jobtitle }}" aria-describedby="basic-addon1">
+						</div>
+					<br>
+					<div id="summernote"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
+				</div>
+			</div>
+		</div>
+		<div class="col-4">
+			<div class="panel panel-primary">
+				<div class="panel-heading">
+					<h3 class="panel-title">Wordcloud</h3>
+				</div>
+				<div class="panel-body"><img width="100%" src={{ url_for('static', filename=wordcloudpath) }}>
+				Buraya biseyler yazsak
+				</div>
+			</div>
+			<div class="panel panel-primary">
+				<div class="panel-heading">
+					<h3 class="panel-title">Important features</h3>
+					
+				</div>
+				<div class="panel-body">
+					{{ important_features_list|safe }}
+				</div>
+			</div>
+			<div class="panel panel-primary">
+				<div class="panel-heading">
+					<h3 class="panel-title">Team dynamics</h3>
+				</div>
+				<div class="panel-body">
+					<ul>
+						<li>...</li>
+						<li>...</li>
+						<li>...</li>
+						<li>...</li>
+						<li>...</li>
+					</ul>
+				</div>
+			</div>
+		  
+		</div>
+	  </div>
+	</div>
+      <script>
+    $(document).ready(function() {
+        $('#summernote').summernote();
+    });
+  </script>
+   </body>
+</html>
